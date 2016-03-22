@@ -1,7 +1,10 @@
+[![](https://badge.imagelayers.io/absolootly/docker-jenkins:v1.0.svg)](https://imagelayers.io/?images=absolootly/docker-jenkins:v1.0 'Get your own badge on imagelayers.io')
+
 # About
 
 This jenkins image is pre-built with the following github plugins:
 
+```
 credentials:1.24
 git:2.4.2
 git-client:1.19.4
@@ -30,6 +33,7 @@ docker-commons:1.3
 cloudbees-folder:5.1
 icon-shim:2.0.2
 authentication-tokens:1.1
+```
 
 ## Adding/removing plugins
 
